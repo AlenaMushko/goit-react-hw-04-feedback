@@ -7,6 +7,6 @@ list-style:none;
 }
 :last-child{
     font-weight:600;
-    color:#d72d4f;
+    color:#06a113;
 }
 `;
